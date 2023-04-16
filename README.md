@@ -1,7 +1,7 @@
 # Hi, I'm Siavash! 👋
 I'm a passionate Machine Learning Researcher interested in its Quantitative Finance Applications. I'm based in Tehran and pursuing my Master's in Artificial Intelligence. I'm working on Algorithmic Trading with Neural Networks at the time. I'm always looking for new ways to expand my knowledge and skills.
 
-On my GitHub page, you'll find some of the projects I've been working on, ranging from my past Courses' Final projects to my projects. I enjoy coding in Python and am always up for a challenge. Feel free to contact me with any cool project ideas or collaborations.
+On my GitHub page, you'll find some of the projects I've been working on, ranging from my past Courses' Final projects to my Professional projects. I enjoy coding in Python and am always up for a challenge. Feel free to contact me with any cool project ideas or collaborations.
 
 - 👯 I’m looking to collaborate on Machine Learning Related Projects
 - 📫 How to reach me: siavashrazmi74@gmail.com

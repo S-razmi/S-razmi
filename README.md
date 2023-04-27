@@ -3,7 +3,7 @@ I'm a passionate Machine Learning Researcher interested in ML's Quantitative Fin
 
 On my GitHub page, you'll find some of the projects I've been working on, ranging from my past Courses' Final projects to my Professional projects. I enjoy coding in Python and am always up for a challenge. Feel free to contact me with any cool project ideas or collaborations.
 
-- 👯 I’m looking to collaborate on Machine Learning Related Projects
+- 👯 I’m looking to collaborate on Machine Learning, Data Science and Finance Related Projects
 - 📫 How to reach me: siavashrazmi74@gmail.com
 ## Stats📈
 ![Siavash's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-razmi&show_icons=true&theme=transparent)

@@ -5,9 +5,9 @@ On my GitHub page, you'll find some of the projects I've been working on, rangin
 
 - 👯 I’m looking to collaborate on Machine Learning, Data Science and Finance Related Projects
 - 📫 How to reach me: siavashrazmi74@gmail.com
-## Stats📈
+<!-- ## Stats📈
 ![Siavash's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-razmi&show_icons=true&theme=transparent)
-<br>
+<br> -->
 <!-- **S-razmi/S-razmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

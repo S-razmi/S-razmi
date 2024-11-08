@@ -1,23 +1,7 @@
-# Hi, I'm Siavash! 👋
-I'm a passionate Machine Learning Researcher interested in ML's Quantitative Finance Applications. I'm based in Tehran and pursuing my Master's in Artificial Intelligence. I'm working on Algorithmic Trading with Neural Networks at the time and always looking for new ways to expand my knowledge and skills.
-
-On my GitHub page, you'll find some of the projects I've been working on, ranging from my past Courses' Final projects to my Personal projects. I enjoy coding in Python and R and am always up for a challenge. Feel free to contact me with any cool project ideas or collaborations.
-
-- 👯 I’m looking to collaborate on Machine Learning, Data Science and Finance Related Projects
-- 📫 How to reach me: siavashrazmi74@gmail.com
-<!-- ## Stats📈
-![Siavash's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-razmi&show_icons=true&theme=transparent)
-<br> -->
-<!-- **S-razmi/S-razmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bio:**
+- MSc in AI, University of Tehran
+- Quant Researcher
+- Interested in Quant Research, Fintech, Algorithmic Trading, Social Networks, LLM  
+- Proficient in Python, R  
+- Libraries: PyTorch, Sklearn, Pandas, Numpy, Matplotlib, Plotly  
+- 📫 Contact: SiavashRazmi74@gmail.com

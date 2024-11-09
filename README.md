@@ -5,4 +5,4 @@
 - Proficient in Python, R  
 - Libraries: PyTorch, Sklearn, Pandas, Numpy, Matplotlib, Plotly  
 - 📫 Email: SiavashRazmi74@gmail.com
-- LinkedIn: https://www.linkedin.com/in/siavash-razmi/
+- LinkedIn: <a href="https://www.linkedin.com/in/siavash-razmi/">siavash-razmi</a> 

@@ -4,4 +4,5 @@
 - Interested in Quant Research, Fintech, Algorithmic Trading, Social Networks, LLM  
 - Proficient in Python, R  
 - Libraries: PyTorch, Sklearn, Pandas, Numpy, Matplotlib, Plotly  
-- 📫 Contact: SiavashRazmi74@gmail.com
+- 📫 Email: SiavashRazmi74@gmail.com
+- LinkedIn: https://www.linkedin.com/in/siavash-razmi/

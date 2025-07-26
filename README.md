@@ -12,4 +12,4 @@
 
 🤝 I'm open to collaboration on academic or industrial projects.  
 📫 Reach me at: siavash.razmi@uibk.ac.at  
-🔗 LinkedIn: siavash-razmi  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/siavash-razmi/">siavash-razmi</a> 
